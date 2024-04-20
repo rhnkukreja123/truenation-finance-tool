@@ -18,10 +18,10 @@ These keys should be set as environment variables to secure your credentials and
 
 1. **Clone the repository:**
    ```bash
-   git clone [URL to the GitHub repository]
+   git clone https://github.com/rhnkukreja123/trunation-finance-tool.git
 2. **Navigate to the repository directory:**
    ```bash
-   cd [repository name]
+   cd main_app
 3. **Install required packages:**
    ```bash
    pip install -r requirements.txt
@@ -29,7 +29,6 @@ These keys should be set as environment variables to secure your credentials and
    ```bash
     export ALPHA_VANTAGE_API_KEY='your_alpha_vantage_key'
     export OPENAI_API_KEY='your_openai_key'
-    export PINECONE_API_KEY='your_pinecone_key'
 ## Usage
 
 To use the True Nation PoC, follow these steps:
