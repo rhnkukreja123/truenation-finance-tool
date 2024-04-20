@@ -1,0 +1,8 @@
+requests==2.31.0
+openai==1.16.2
+pinecone-client==3.2.2
+langchain==0.1.14
+langchain-openai==0.1.1
+langchain-community==0.0.31
+langchainhub==0.1.15
+
