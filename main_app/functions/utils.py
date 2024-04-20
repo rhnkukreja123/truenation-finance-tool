@@ -1,14 +1,14 @@
 import requests
 import re
 
-
+OPENAI_API_KEY=os.getenv('OPENAI_API_KEY')
 
 def get_response_from_openai(openai_prompt):
     api_key="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"
     url = "https://api.openai.com/v1/chat/completions"
     headers = {
         "Content-Type": "application/json",
-        "Authorization": f"Bearer {api_key}"
+        "Authorization": f"Bearer {OPENAI_API_KEY}"
     }
     data = {
         "model": "gpt-3.5-turbo",  # Or whichever model you're using, e.g., "gpt-3.5-turbo"
