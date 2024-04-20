@@ -18,7 +18,7 @@ These keys should be set as environment variables to secure your credentials and
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/rhnkukreja123/trunation-finance-tool.git
+   git clone https://github.com/rhnkukreja123/truenation-finance-tool.git
 2. **Navigate to the repository directory:**
    ```bash
    cd main_app
