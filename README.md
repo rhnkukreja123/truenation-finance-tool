@@ -56,4 +56,4 @@ To use the APIs integrated in this project, set up your API keys as described in
 
 
 ## Acknowledgments
-Alpha Vantage, OpenAI, and Pinecone for their powerful APIs.
+Alpha Vantage, OpenAI for their powerful APIs.
