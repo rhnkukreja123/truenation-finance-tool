@@ -27,8 +27,8 @@ These keys should be set as environment variables to secure your credentials and
    pip install -r requirements.txt
 4. **Set up environment variables:**
    ```bash
-    export ALPHA_VANTAGE_API_KEY='your_alpha_vantage_key'
-    export OPENAI_API_KEY='your_openai_key'
+    set ALPHA_VANTAGE_API_KEY='your_alpha_vantage_key'
+    set OPENAI_API_KEY='your_openai_key'
 ## Usage
 
 To use the True Nation PoC, follow these steps:
